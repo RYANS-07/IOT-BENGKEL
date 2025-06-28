@@ -1,0 +1,102 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9">
+  <diagram name="Page-1" id="vFZa6MuNL-4t9AkKh4qN">
+    <mxGraphModel dx="792" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XM6_5vX2DxLiWtpjeeLL-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="XM6_5vX2DxLiWtpjeeLL-1" target="XM6_5vX2DxLiWtpjeeLL-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XM6_5vX2DxLiWtpjeeLL-1" value="contact sensor mengesan pintu&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="120" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XM6_5vX2DxLiWtpjeeLL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XM6_5vX2DxLiWtpjeeLL-4" target="XM6_5vX2DxLiWtpjeeLL-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="280" />
+              <mxPoint x="600" y="145" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XM6_5vX2DxLiWtpjeeLL-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="XM6_5vX2DxLiWtpjeeLL-4" target="XM6_5vX2DxLiWtpjeeLL-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XM6_5vX2DxLiWtpjeeLL-4" value="pintu terbuka" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="200" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="XM6_5vX2DxLiWtpjeeLL-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="XM6_5vX2DxLiWtpjeeLL-7" target="XM6_5vX2DxLiWtpjeeLL-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XM6_5vX2DxLiWtpjeeLL-7" value="START" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="395" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XM6_5vX2DxLiWtpjeeLL-10" value="TIDAK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="560" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XM6_5vX2DxLiWtpjeeLL-11" value="YA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="460" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XM6_5vX2DxLiWtpjeeLL-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="XM6_5vX2DxLiWtpjeeLL-13" target="XM6_5vX2DxLiWtpjeeLL-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XM6_5vX2DxLiWtpjeeLL-13" value="ESP32 cam mengambil gambar suasana stor" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="420" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iGuR4WESd2Pd1kacSOhX-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XM6_5vX2DxLiWtpjeeLL-15" target="iGuR4WESd2Pd1kacSOhX-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XM6_5vX2DxLiWtpjeeLL-15" value="menghantar gambar ke telegram" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="520" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iGuR4WESd2Pd1kacSOhX-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iGuR4WESd2Pd1kacSOhX-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iGuR4WESd2Pd1kacSOhX-3" value="setiap peralatan (pematri, playar dan testpen) mempunyai sticker NFC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="610" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iGuR4WESd2Pd1kacSOhX-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iGuR4WESd2Pd1kacSOhX-12" target="iGuR4WESd2Pd1kacSOhX-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iGuR4WESd2Pd1kacSOhX-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iGuR4WESd2Pd1kacSOhX-12" target="iGuR4WESd2Pd1kacSOhX-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iGuR4WESd2Pd1kacSOhX-12" value="rfid scan sticker NFC" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="700" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="iGuR4WESd2Pd1kacSOhX-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iGuR4WESd2Pd1kacSOhX-13" target="iGuR4WESd2Pd1kacSOhX-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iGuR4WESd2Pd1kacSOhX-13" value="Peralatan yang dipinjam akan disenarai di google sheet&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="900" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iGuR4WESd2Pd1kacSOhX-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iGuR4WESd2Pd1kacSOhX-14" target="iGuR4WESd2Pd1kacSOhX-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640.0000000000001" y="1211.47" as="targetPoint" />
+            <mxPoint x="691.85" y="990" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iGuR4WESd2Pd1kacSOhX-14" value="Jika peralatan dibawa keluar dari stor, buzzer akan berbunyi dan memberi amaran kepada pelajar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="900" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iGuR4WESd2Pd1kacSOhX-17" value="YA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="860" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iGuR4WESd2Pd1kacSOhX-18" value="TIDAK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="780" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iGuR4WESd2Pd1kacSOhX-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iGuR4WESd2Pd1kacSOhX-20" target="iGuR4WESd2Pd1kacSOhX-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iGuR4WESd2Pd1kacSOhX-20" value="Pelajar bole membawa peralatan tersebut keluar dari stor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1000" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iGuR4WESd2Pd1kacSOhX-23" value="END" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="1110" width="150" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
